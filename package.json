@@ -1,0 +1,29 @@
+{
+  "name": "koa-ga-pageview",
+  "version": "1.0.0",
+  "description": "Send pageviews to Google Analytics.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Tyler-Murphy/koa-ga-pageview.git"
+  },
+  "keywords": [
+    "google",
+    "analytics",
+    "pageview",
+    "koa",
+    "ga",
+    "measurement",
+    "protocol",
+    "universal",
+    "analytics"
+  ],
+  "author": "Tyler Murphy <tylermurphyj@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tyler-Murphy/koa-ga-pageview/issues"
+  },
+  "homepage": "https://github.com/Tyler-Murphy/koa-ga-pageview#readme"
+}
